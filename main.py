@@ -18,6 +18,6 @@ for i in range(num_epoch) :
     optimizer.zero_grad()
     output =model(x)
 
-print
+print(hello world)
 #loss_func = nn.L1Loss(y-y_noise)
 
